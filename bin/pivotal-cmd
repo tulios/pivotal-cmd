@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/pivotal-cmd"
+Pivotal::Cmd.run! ARGV

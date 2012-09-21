@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iterations type="array">
+  <iteration>
+    <id type="integer">27</id>
+    <number type="integer">27</number>
+    <start type="datetime">2012/09/09 03:00:00 UTC</start>
+    <finish type="datetime">2012/09/23 03:00:00 UTC</finish>
+    <team_strength type="float">1</team_strength>
+    <stories type="array">
+      <story>
+        <id type="integer">35114395</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35114395</url>
+        <estimate type="integer">3</estimate>
+        <current_state>accepted</current_state>
+        <description></description>
+        <name>trilho s&#233;ries depois de novelas</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/08/28 16:30:58 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:40:58 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/12 17:40:58 UTC</accepted_at>
+        <labels>globo.tv+</labels>
+        <notes type="array">
+          <note>
+            <id type="integer">28397493</id>
+            <text>branch tem que ser master</text>
+            <author>Videos 1</author>
+            <noted_at type="datetime">2012/09/06 20:24:37 UTC</noted_at>
+          </note>
+        </notes>
+      </story>
+      <story>
+        <id type="integer">33142375</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/33142375</url>
+        <estimate type="integer">2</estimate>
+        <current_state>accepted</current_state>
+        <description></description>
+        <name>globo.tv+ no header e footer</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/07/20 21:38:22 UTC</created_at>
+        <updated_at type="datetime">2012/09/14 17:32:20 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/14 17:32:20 UTC</accepted_at>
+        <labels>globo.tv+</labels>
+        <notes type="array">
+          <note>
+            <id type="integer">28396801</id>
+            <text>tamanho dos itens est&#225; grande</text>
+            <author>Videos 1</author>
+            <noted_at type="datetime">2012/09/06 20:14:22 UTC</noted_at>
+          </note>
+          <note>
+            <id type="integer">28396885</id>
+            <text>responsive quebrado</text>
+            <author>Videos 1</author>
+            <noted_at type="datetime">2012/09/06 20:15:23 UTC</noted_at>
+          </note>
+        </notes>
+      </story>
+      <story>
+        <id type="integer">26308413</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/26308413</url>
+        <estimate type="integer">5</estimate>
+        <current_state>accepted</current_state>
+        <description>- ol&#225;, fulano!
+- login cadun
+- link logout</description>
+        <name>como editor, quero logar no admin do globo.tv</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/03/12 19:37:47 UTC</created_at>
+        <updated_at type="datetime">2012/09/14 19:24:40 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/14 19:24:40 UTC</accepted_at>
+        <labels>cma,globo tv</labels>
+      </story>
+      <story>
+        <id type="integer">35938369</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938369</url>
+        <estimate type="integer">1</estimate>
+        <current_state>accepted</current_state>
+        <description></description>
+        <name>trocar mais pelo cadeado</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:46:34 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:42:31 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/18 17:42:31 UTC</accepted_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938141</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938141</url>
+        <estimate type="integer">5</estimate>
+        <current_state>accepted</current_state>
+        <description></description>
+        <name>preparar janela com cadun e corre&#231;&#245;es</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:43:08 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:46:26 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/18 17:46:26 UTC</accepted_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938267</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938267</url>
+        <estimate type="integer">2</estimate>
+        <current_state>accepted</current_state>
+        <description></description>
+        <name>logos cropadas na /home do mais</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:44:52 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:47:15 UTC</updated_at>
+        <accepted_at type="datetime">2012/09/18 17:47:15 UTC</accepted_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35114201</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35114201</url>
+        <estimate type="integer">3</estimate>
+        <current_state>started</current_state>
+        <description>- Tirar login da Selling Page
+- Acertar URLs da Selling Page
+- Colocar v&#237;deo na Selling Page
+- Ajeitar textos e imagens da Selling Page (+e-mail)</description>
+        <name>ajustes para o lan&#231;amento</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/08/28 16:28:23 UTC</created_at>
+        <updated_at type="datetime">2012/08/31 14:57:03 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">29864037</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>release</story_type>
+        <url>http://www.pivotaltracker.com/story/show/29864037</url>
+        <current_state>unstarted</current_state>
+        <description></description>
+        <name>Sprint 3T#6: Ajustes Globo.tv+ (+RD)</name>
+        <requested_by>Videos 1</requested_by>
+        <created_at type="datetime">2012/05/18 22:18:50 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:49:25 UTC</updated_at>
+      </story>
+      <story>
+        <id type="integer">33144703</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/33144703</url>
+        <estimate type="integer">8</estimate>
+        <current_state>delivered</current_state>
+        <description>- Lista de &#237;ntegras (ascendente, decrescente por rec&#234;ncia)
+- Tracking da pagina&#231;&#227;o
+- Scroll infinito
+- SEO
+- Exibe 10
+- Colocar links nas outras p&#225;ginas
+- Para assinantes no robots.txt
+- voltar para o topo</description>
+        <name>p&#225;gina com lista de &#237;ntegras do programa (1/2)</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/07/20 22:34:24 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:36:09 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35114637</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35114637</url>
+        <estimate type="integer">5</estimate>
+        <current_state>delivered</current_state>
+        <description></description>
+        <name>p&#225;gina com lista de &#237;ntegras do programa (2/2)</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/08/28 16:34:13 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:38:50 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">33277719</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/33277719</url>
+        <estimate type="integer">3</estimate>
+        <current_state>delivered</current_state>
+        <description>- Exibe bot&#227;o para scroll</description>
+        <name>p&#225;gina com lista de &#237;ntegras do programa</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/07/24 13:40:56 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:39:00 UTC</updated_at>
+        <labels>768px,globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">33277737</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/33277737</url>
+        <estimate type="integer">5</estimate>
+        <current_state>delivered</current_state>
+        <description>- Testar novo grid</description>
+        <name>p&#225;gina com lista de &#237;ntegras do programa</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/07/24 13:41:06 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:39:10 UTC</updated_at>
+        <labels>320px,globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938115</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938115</url>
+        <estimate type="integer">2</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>cat&#225;logos de acervo n&#227;o deveriam ficar s&#243; com o trilho do globo.tv</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:42:38 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:42:40 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938323</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938323</url>
+        <estimate type="integer">3</estimate>
+        <current_state>delivered</current_state>
+        <description></description>
+        <name>atualiza&#231;&#227;o autom&#225;tica da contagem de &#237;ntegras para os grandes sucessos</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:45:42 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:39:36 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938353</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938353</url>
+        <estimate type="integer">2</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>tooltip nos v&#237;deos do globo.tv+</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:46:19 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:46:20 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938463</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938463</url>
+        <estimate type="integer">0</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>preparar janela de lan&#231;amento (18/09)</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:47:27 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:47:30 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938493</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938493</url>
+        <estimate type="integer">3</estimate>
+        <current_state>delivered</current_state>
+        <description></description>
+        <name>pagina&#231;&#227;o na p&#225;gina de &#237;ntegras</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:48:01 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:42:33 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938527</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938527</url>
+        <estimate type="integer">3</estimate>
+        <current_state>delivered</current_state>
+        <description></description>
+        <name>infinite scroll na p&#225;gina de &#237;ntegras</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:48:21 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 17:43:50 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938579</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938579</url>
+        <estimate type="integer">3</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>ordena&#231;&#227;o na p&#225;gina de &#237;ntegras</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:48:59 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:40:16 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938699</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938699</url>
+        <estimate type="integer">5</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>ajuste no paralax do destaque</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:50:32 UTC</created_at>
+        <updated_at type="datetime">2012/09/14 19:24:59 UTC</updated_at>
+        <labels>globo.tv+</labels>
+      </story>
+      <story>
+        <id type="integer">35938723</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938723</url>
+        <estimate type="integer">8</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>bot&#245;es de compartilhamento (social) customizados</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:50:53 UTC</created_at>
+        <updated_at type="datetime">2012/09/14 19:25:10 UTC</updated_at>
+      </story>
+      <story>
+        <id type="integer">34078345</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>release</story_type>
+        <url>http://www.pivotaltracker.com/story/show/34078345</url>
+        <current_state>unstarted</current_state>
+        <description></description>
+        <name>Sprint 4T#1: Acompanhamento globo.tv+</name>
+        <requested_by>Videos 1</requested_by>
+        <created_at type="datetime">2012/08/08 14:43:20 UTC</created_at>
+        <updated_at type="datetime">2012/09/12 17:50:07 UTC</updated_at>
+      </story>
+      <story>
+        <id type="integer">35938793</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/35938793</url>
+        <estimate type="integer">3</estimate>
+        <current_state>delivered</current_state>
+        <description></description>
+        <name>corre&#231;&#227;o dashboard real-time</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/12 17:51:50 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:38:19 UTC</updated_at>
+      </story>
+      <story>
+        <id type="integer">36270245</id>
+        <project_id type="integer">368865</project_id>
+        <story_type>feature</story_type>
+        <url>http://www.pivotaltracker.com/story/show/36270245</url>
+        <estimate type="integer">8</estimate>
+        <current_state>started</current_state>
+        <description></description>
+        <name>trilho autom&#225;tico de &#237;ntegras</name>
+        <requested_by>Videos 1</requested_by>
+        <owned_by>Videos 1</owned_by>
+        <created_at type="datetime">2012/09/18 20:41:43 UTC</created_at>
+        <updated_at type="datetime">2012/09/18 20:42:15 UTC</updated_at>
+        <labels>catalogo,cma</labels>
+      </story>
+    </stories>
+  </iteration>
+</iterations>
