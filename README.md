@@ -11,7 +11,7 @@ $ pivotal-cmd <command>
 
 ## Usage
 
-First of all, create a .pivotalcmdrc with the api token and project id
+First of all, create a __.pivotalcmdrc__ with the api token and project id
 in your home directory (~/).
 
 ### Example:
