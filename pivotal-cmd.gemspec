@@ -22,4 +22,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency "nokogiri", "1.5.5"
 
   gem.add_development_dependency "debugger", "1.2.0"
+  gem.add_development_dependency 'rspec', "2.11.0"
 end
